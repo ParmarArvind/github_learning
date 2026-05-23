@@ -12,3 +12,8 @@ function showPayment(){
     console.log(payment);
 }
 showPayment();
+
+function updatePayment(){
+    console.log("Payment updated");
+}
+updatePayment();
