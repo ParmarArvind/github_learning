@@ -8,3 +8,7 @@ function withdrawPayment(){
     console.log("Payment withdrawn button");
 }
 withdrawPayment();
+function showPayment(){
+    console.log(payment);
+}
+showPayment();
