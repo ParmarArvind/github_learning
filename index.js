@@ -17,3 +17,6 @@ function updatePayment(){
     console.log("Payment updated");
 }
 updatePayment();
+
+// pay branch is added 
+console.log("pay branch is added");
